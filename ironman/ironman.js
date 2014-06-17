@@ -18,7 +18,7 @@ canvas.height = height;
 //Variables for game
 var platforms = [],
 	image = document.getElementById("sprite"),
-	player, platformCount = 7,
+	player, platformCount = 2,
 	position = 0,
 	gravity = 0.2,
 	animloop,
